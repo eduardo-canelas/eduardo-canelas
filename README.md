@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Eduardo Canelas
+- 🌍 I'm based in Orlando, Florida
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java
+- 💞️ I’m open to collaborating on various projects
+- 📫 You can contect me at eduardo.canleas.e@gmail.com
