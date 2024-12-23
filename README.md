@@ -3,7 +3,7 @@
 * 👀 I’m interested in Software Development
 * 🌱 I’m currently learning Java
 * 💞️ I’m open to collaborating on various projects
-* 📫 You can contect me at eduardo.canleas.e@gmail.com
+* 📫 You can contect me at edu.canleas.e@gmail.com
 # 💻 Tech Stack
 ## 🌐 Languages
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
