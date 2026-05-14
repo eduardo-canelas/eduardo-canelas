@@ -190,11 +190,11 @@ Real love for the craft. I'd rather ship one thing that quietly changes how peop
 
 ---
 
-## 🐍 &nbsp; Contribution Snake
+## 🏆 &nbsp; Trophy Case
 
 <div align="center">
 
-![snake gif](https://github.com/eduardo-canelas/eduardo-canelas/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-profile-trophy.vercel.app/?username=eduardo-canelas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
