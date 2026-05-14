@@ -115,60 +115,18 @@ const eduardo = {
 ## 🚀 &nbsp; Featured Work
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-
-### [🏎️ RoutePulse](https://eduardocanelas.vercel.app/#projects)
-Full-stack **MERN logistics platform** with a **Gemini 2.5** AI layer. Real-time route intelligence, multi-tenant ops, predictive ETAs.
-<br/>
-`React` · `Node` · `MongoDB` · `Gemini 2.5`
-
-    </td>
-    <td width="50%" valign="top">
-
-### [👗 CLOZI](https://eduardocanelas.vercel.app/#projects)
-**AI wardrobe app** — "ChatGPT for clothes." Co-founder. Native mobile, computer-vision sorting, Gen-Z first.
-<br/>
-`React Native` · `Expo` · `Supabase` · `TypeScript`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### [📈 Risker](https://eduardocanelas.vercel.app/#projects)
-**AI backend system** for portfolio risk + agent-driven analysis. Currently auditing & rebuilding the stack.
-<br/>
-`Python` · `FastAPI` · `Next.js` · `Supabase`
-
-    </td>
-    <td width="50%" valign="top">
-
-### [⚡ Multi-Threaded Routing](https://eduardocanelas.vercel.app/#projects)
-Low-level **concurrent programming** project — threading models, lock-free queues, throughput benchmarks.
-<br/>
-`C` · `POSIX threads` · `Systems`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### [🛒 Nile Commerce](https://eduardocanelas.vercel.app/#projects)
-End-to-end **e-commerce platform** — auth, payments, admin tooling, inventory state machine.
-<br/>
-`MERN` · `Stripe` · `Mongoose`
-
-    </td>
-    <td width="50%" valign="top">
-
-### [🌱 Habitz](https://eduardocanelas.vercel.app/#projects)
-**Habit-tracking UX** experiment — motion-led mobile interface, dopamine-aware nudges.
-<br/>
-`React Native` · `Motion` · `UX`
-
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top"><h3>🏎️ <a href="https://eduardocanelas.vercel.app/#projects">RoutePulse</a></h3><p>Full-stack <b>MERN logistics platform</b> with a <b>Gemini 2.5</b> AI layer. Real-time route intelligence, multi-tenant ops, predictive ETAs.</p><p><code>React</code> · <code>Node</code> · <code>MongoDB</code> · <code>Gemini 2.5</code></p></td>
+<td width="50%" valign="top"><h3>👗 <a href="https://eduardocanelas.vercel.app/#projects">CLOZI</a></h3><p><b>AI wardrobe app</b> — "ChatGPT for clothes." Co-founder. Native mobile, computer-vision sorting, Gen-Z first.</p><p><code>React Native</code> · <code>Expo</code> · <code>Supabase</code> · <code>TypeScript</code></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>📈 <a href="https://eduardocanelas.vercel.app/#projects">Risker</a></h3><p><b>AI backend system</b> for portfolio risk + agent-driven analysis. Currently auditing &amp; rebuilding the stack.</p><p><code>Python</code> · <code>FastAPI</code> · <code>Next.js</code> · <code>Supabase</code></p></td>
+<td width="50%" valign="top"><h3>⚡ <a href="https://eduardocanelas.vercel.app/#projects">Multi-Threaded Routing</a></h3><p>Low-level <b>concurrent programming</b> project — threading models, lock-free queues, throughput benchmarks.</p><p><code>C</code> · <code>POSIX threads</code> · <code>Systems</code></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>🛒 <a href="https://eduardocanelas.vercel.app/#projects">Nile Commerce</a></h3><p>End-to-end <b>e-commerce platform</b> — auth, payments, admin tooling, inventory state machine.</p><p><code>MERN</code> · <code>Stripe</code> · <code>Mongoose</code></p></td>
+<td width="50%" valign="top"><h3>🌱 <a href="https://eduardocanelas.vercel.app/#projects">Habitz</a></h3><p><b>Habit-tracking UX</b> experiment — motion-led mobile interface, dopamine-aware nudges.</p><p><code>React Native</code> · <code>Motion</code> · <code>UX</code></p></td>
+</tr>
 </table>
 
 <div align="center">
