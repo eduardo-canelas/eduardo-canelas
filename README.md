@@ -27,7 +27,7 @@
 ```ts
 const eduardo = {
   location:   "Orlando, FL  ·  he/him",
-  studying:   "B.S. Computer Science · UCF · grad May 2026",
+  studying:   "B.S. Information Technology · UCF · graduated May 9, 2026",
   building:   ["Risker", "CLOZI", "RoutePulse"],
   focus:      ["full-stack", "AI agents", "data systems", "motion UX"],
   philosophy: "Listen → Sketch → Build → Iterate",
